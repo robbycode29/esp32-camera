@@ -10,7 +10,7 @@ export default defineComponent({
     name: 'HomeView',
     data() {
         return {
-            streamRoute: 'http://5.12.179.74:81/stream',
+            streamRoute: 'http://IP:PORT/stream',
         };
     },
 });
